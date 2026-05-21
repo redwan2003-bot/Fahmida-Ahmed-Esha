@@ -66,8 +66,8 @@ const Footer = () => (
     </StyledSocialLinks>
 
     <StyledCredit tabIndex="-1">
-      <a href="https://www.linkedin.com/in/fahmidaahmedesha/" target="_blank" rel="noreferrer">
-        <div>Designed &amp; Built by Fahmida Ahmed Esha</div>
+      <a href="https://www.linkedin.com/in/redwanahmmed/" target="_blank" rel="noreferrer">
+        <div>Designed &amp; Built by Redwan Ahmmed</div>
       </a>
     </StyledCredit>
   </StyledFooter>

@@ -2,5 +2,11 @@
   "installCommand": "npm install --legacy-peer-deps",
   "buildCommand": "npm run build",
   "outputDirectory": "public",
-  "framework": "gatsby"
+  "framework": "gatsby",
+  "build": {
+    "env": {
+      "NODE_VERSION": "18.20.4",
+      "SHARP_IGNORE_GLOBAL_LIBVIPS": "1"
+    }
+  }
 }
